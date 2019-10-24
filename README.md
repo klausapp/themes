@@ -6,6 +6,8 @@ Various themes with our brand colours
 
 https://color.firefox.com/?theme=XQAAAAIKAQAAAAAAAABBqYhm849SCia2CaaEGccwS-xNKlhVwOfv_ZWZhEM0Bb1c1mzpnCmakaJhKqqhH4bIHGZcBGEFHUa1lAX4hmo7odBkZ3K7h5AK1JsF3d0veIpQ_2XPjepvmpyudlx3mSp3gEhakgvwHdiE2hcEDSP90x6J7gX2xvaWousqqMLbIICGPrrc_F5PY8Z30byyqsXDmpVrc8xjjoqifcUihm_MB6LMo_QDvDHe2DJvFDa1GP0PrH4
 
+![Firefox theme](./firefox-preview.png)
+
 ## 💬 Slack themes
 
 Navigate to `Settings > Themes` and paste a theme's HEX values at the very bottom, under the *Custom theme* section
